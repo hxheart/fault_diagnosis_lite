@@ -1,4 +1,4 @@
-# Supplementary Material for the paper *Learning to Configure Computer Networks with Neural Algorithmic Reasoning*
+# This work is built on the Supplementary Material for the paper *Learning to Configure Computer Networks with Neural Algorithmic Reasoning*
 
 This repository contains the code for the paper, including the scripts that can be used generate datasets, train models as well as reproduce our evaluation.
 
